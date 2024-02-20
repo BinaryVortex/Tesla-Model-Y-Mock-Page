@@ -1,2 +1,2 @@
 # Tesla-Model-Y-Mock-Page
-Its a small mock webpage i coded about tesla model y 
+Its A Small Mock Webpage I Coded About Tesla Model Y.
